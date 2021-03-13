@@ -92,3 +92,4 @@ WTForms==2.3.3
 xkcdpass==1.17.6
 yamlreader==3.0.4
 zipp==3.4.1
+gunicorn==19.0.0
